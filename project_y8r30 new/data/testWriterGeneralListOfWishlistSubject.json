@@ -1,0 +1,25 @@
+{"listOfWishlistSubject": [
+ {
+  "name": "shopping",
+  "listOfSubjectOptions": [
+   {
+    "name": "adidas",
+    "rating": 3,
+    "category": "athletics"
+   },
+   {
+    "name": "aritzia",
+    "rating": 4,
+    "category": "casual"
+   }
+  ]
+ },
+ {
+  "name": "food",
+  "listOfSubjectOptions": [{
+   "name": "pho",
+   "rating": 5,
+   "category": "vietnamese"
+  }]
+ }
+]}

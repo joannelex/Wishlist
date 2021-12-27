@@ -1,0 +1,21 @@
+{"listOfWishlistSubject": [
+ {
+  "name": "food",
+  "listOfSubjectOptions": [
+   {
+    "name": "sushi",
+    "rating": 4,
+    "category": "japan"
+   },
+   {
+    "name": "kimbap",
+    "rating": 4,
+    "category": "korea"
+   }
+  ]
+ },
+ {
+  "name": "travel",
+  "listOfSubjectOptions": []
+ }
+]}
