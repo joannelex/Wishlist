@@ -36,34 +36,3 @@ a little thrill in their choices.
 
 + As a user, I want to be able to save my wishlist to a file.
 + As a user, I want to be able to load my wishlist from file.
-
-##Phase 4: Task 2
-Thu Nov 25 00:54:51 PST 2021 </br>
-Added WishlistSubject: food
-
-Thu Nov 25 00:54:56 PST 2021 </br>
-Added WishlistSubject: travel
-
-Thu Nov 25 00:55:01 PST 2021 </br>
-Accessing WishlistSubject with name: food
-
-Thu Nov 25 00:55:13 PST 2021 </br>
-Added Option: sushi  |  japan  |  3
-
-Thu Nov 25 00:55:22 PST 2021 </br>
-Added Option: pho  |  viet  |  3
-
-Thu Nov 25 00:55:40 PST 2021 </br>
-Added Option: kimchi  |  korea  |  5
-
-Thu Nov 25 00:55:58 PST 2021 </br>
-Removed Option: pho
-
-
-##Phase 4: Task 3
-
-If I had more time to work on this project, I would try to make the SubjectUI class
-extend the Wishlist UI class. While I was working on my code, I realized there are
-multiple similarities in the helper methods between two classes, where the SubjectUI 
-class can definitely use by extending the WishlistUI class.
-
